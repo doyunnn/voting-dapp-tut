@@ -1,4 +1,4 @@
-# voting
+# Voting with Solana Blinks 
 
 ## Getting Started
 
@@ -92,3 +92,8 @@ Build the web app
 ```shell
 bun run build
 ```
+
+
+## Sample
+
+

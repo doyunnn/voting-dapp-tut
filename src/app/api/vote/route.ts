@@ -24,7 +24,7 @@ export async function GET(request: Request) {
           },
           {
             type: 'post',
-            label: 'Vote for Crunchy',
+            label: 'Vote for Smooth',
             href: 'http://localhost:3000/api/vote?candidate=Smooth',
           },
         ]
