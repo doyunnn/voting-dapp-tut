@@ -96,4 +96,6 @@ bun run build
 
 ## Sample
 
+![2024-12-1918 16 16-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/42655eec-6853-4ec6-9b21-78063c015188)
+
 
